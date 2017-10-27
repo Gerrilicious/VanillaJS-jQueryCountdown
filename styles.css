@@ -1,0 +1,22 @@
+body {
+    background: #D2D2D2;
+}
+.float {
+    float: left;
+    padding: 20px;
+}
+#the-box, #the-box2, #countdown {
+    width: 35rem;
+    height: 8rem;
+    line-height: 4.5;
+    background: #185901;
+    display: block;
+    text-align: center;
+    font-size: 2rem;
+    color: #FFF;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 0.25rem;
+    margin: 2rem auto;
+    cursor: pointer;
+}
